@@ -1,5 +1,5 @@
 # Dataset-LinkSocial
-LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms
+This repository contains datasets used in our paper LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms.
 
 ## Description
 Dataset includes below details of user profile
