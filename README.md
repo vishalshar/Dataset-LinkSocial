@@ -2,6 +2,7 @@
 LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms
 
 ## Description
+Dataset includes below details of user profile
 <table>
   <tbody>
     <tr>
@@ -41,3 +42,19 @@ LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms
     </tr>
   </tbody>
 </table>
+
+## Citation
+If you use our dataset please cite it as below:
+
+```
+@INPROCEEDINGS{8588801,
+author={V. {Sharma} and C. {Dyreson}},
+booktitle={2018 IEEE International Conference on Big Knowledge (ICBK)},
+title={LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms},
+year={2018},
+pages={260-267},
+keywords={feature extraction;gradient methods;pattern clustering;social networking (online);social sciences computing;social media platforms;stochastic gradient descent;clustering;feature extraction;Twitter profiles;Facebook profiles;pair-wise linking;social media profiles;multiplatform user behavior;social media marketing;product advertisements;commercial marketing;user profiles;LINKSOCIAL;Twitter;Couplings;Media;Feature extraction;Google;Data privacy;Social Media Analysis, User Profile Linkage, Social Media Profile Linkage, Entity Resolution},
+doi={10.1109/ICBK.2018.00042},
+ISSN={},
+month={Nov},}
+```
