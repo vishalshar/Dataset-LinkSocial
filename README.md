@@ -1,6 +1,54 @@
 # Dataset-LinkSocial
 This repository contains datasets used in our paper LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms.
 
+## Dataset Stats
+#### Number of users with profiles on pair-wise and multi-platform
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Social Media</th>
+      <th align="center">Count</th>
+    </tr>
+    <tr>
+      <td align="left">Instagram - Google+</td>
+      <td align="right">614</td>
+    </tr>
+    <tr>
+      <td align="left">Twitter - Instagram</td>
+      <td align="right">2451</td>
+    </tr>
+    <tr>
+      <td align="left">Google+ - Twitter</td>
+      <td align="right">2974</td>
+    </tr>
+    <tr>
+      <td align="left">Google+ - Instagram - Twitter</td>
+      <td align="right">7729</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Number of profiles on each social media platform
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Social Media</th>
+      <th align="center">Count</th>
+    </tr>
+    <tr>
+      <td align="left">Instagram</td>
+      <td align="right">10,958</td>
+    </tr>
+    <tr>
+      <td align="left">Twitter</td>
+      <td align="right">13,961</td>
+    </tr>
+    <tr>
+      <td align="left">Google+</td>
+      <td align="right">11,892</td>
+    </tr>
+</table>
+
 ## Description
 Dataset includes below details of user profile
 <table>
