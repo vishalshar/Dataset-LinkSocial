@@ -93,7 +93,7 @@ Dataset includes below details of user profile
 
 ## Citation
 ```
-[1] Pelsmaeker, T., and Aziz, W. (2019). Effective Estimation of Deep Generative Language Models. arXiv preprint arXiv:1904.08194.
+[1] Vishal Sharma and Curtis Dyreson, LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms, ICBK 2019.
 ```
 
 If you use our dataset please cite it as below:
