@@ -1,5 +1,5 @@
 # Dataset-LinkSocial
-This repository contains datasets used in our paper LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms.
+This repository contains datasets used in our paper LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms. [[1]]
 
 ## Dataset Stats
 #### Number of users with profiles on pair-wise and multi-platform
@@ -92,6 +92,10 @@ Dataset includes below details of user profile
 </table>
 
 ## Citation
+```
+[1] Pelsmaeker, T., and Aziz, W. (2019). Effective Estimation of Deep Generative Language Models. arXiv preprint arXiv:1904.08194.
+```
+
 If you use our dataset please cite it as below:
 
 ```
