@@ -1,5 +1,6 @@
 # Dataset-LinkSocial
-This repository contains datasets used in our paper [LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms](https://ieeexplore.ieee.org/document/8588801)  [[1]](https://github.com/vishalshar/Dataset-LinkSocial#citation)
+This repository contains datasets used in our paper 
+[[1]] [LINKSOCIAL: Linking User Profiles Across Multiple Social Media Platforms](https://ieeexplore.ieee.org/document/8588801)  (https://github.com/vishalshar/Dataset-LinkSocial#citation)
 
 ## Dataset Stats
 #### Number of users with profiles on pair-wise and multi-platform
